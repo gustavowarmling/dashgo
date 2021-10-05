@@ -9,7 +9,6 @@ import { Input } from "../../components/Form/input";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
 import { api } from "../../services/api";
-import { ActiveModelSerializer } from "miragejs";
 import { queryClient } from "../../services/queryClient";
 import router from "next/router";
 
