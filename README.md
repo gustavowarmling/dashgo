@@ -1,11 +1,10 @@
 # Dashgo
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<img src="https://i.imgur.com/WZedeI4.png" alt="Dashgo visual example">
+<img src="https://i.imgur.com/mDTsxJh.png" alt="Dashgo visual example">
 
 > The project was made to explore and test some technologies as ChakraUi and React Query.
 
