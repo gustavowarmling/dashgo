@@ -5,7 +5,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<img src="hhttps://i.imgur.com/WZedeI4.png" alt="Dashgo visual example">
+<img src="https://i.imgur.com/WZedeI4.png" alt="Dashgo visual example">
 
 > The project was made to explore and test some technologies as ChakraUi and React Query.
 
